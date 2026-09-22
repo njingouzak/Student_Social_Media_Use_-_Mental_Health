@@ -1,11 +1,11 @@
 # **Student Social Media Use, Mental Health and Well-Being**
 
-## **Project Overview**
+## 📖 **Project Overview**
 This project uses interactive data visualization to investigate patterns between social media behavior and student well-being. The analysis integrates mental health scores with stress, sleep, study hours, academic level, age, and social media usage patterns to examine differences across student groups.
 
 The resulting Tableau dashboard transforms these multidimensional relationships into an interactive analytical tool that enables users to explore patterns by demographic, academic, and behavioral characteristics.
 
-## **Objectives**
+## 🎯 **Objectives**
 
 ### Main Objective
 
@@ -19,9 +19,9 @@ To explore the relationship between social media usage patterns and student ment
 - Compare patterns by age, gender, academic level, and platform  
 - Identify distinct student behavioral and well-being segments
 
-## **Data Source**
+## 📊 **Data Source**
 
-The dataset used in this project come from Kaggle platform ["https://www.kaggle.com/datasets/shivasingh4945/student-social-media-and-mental-health-impact"](Click Here), it is a behavioral analytics dataset containing 5,000 student records designed to explore the relationship between social media usage, lifestyle habits, and mental well-being. It contains the following features:
+The dataset used in this project come from Kaggle platform [CLICK HERE](https://www.kaggle.com/datasets/shivasingh4945/student-social-media-and-mental-health-impact), it is a behavioral analytics dataset containing 5,000 student records designed to explore the relationship between social media usage, lifestyle habits, and mental well-being. It contains the following features:
 
 - Age – Student age  
 - Gender – Gender of the student  
@@ -37,13 +37,13 @@ The dataset used in this project come from Kaggle platform ["https://www.kaggle.
 - Stress_Level – Self-reported stress category  
 - Mental_Health_Score – Mental well-being score  
 
-## **Tools**
+## 🛠️ **Tools**
 
 Tableau | Data Visualization | Exploratory Data Analysis | Interactive Dashboards
 
-## **Project Workflow**
+## ⚙️ **Project Workflow**
 
-**Dashboard 1 — Overview**
+🔍 **Dashboard 1 — Overview** 
 
 The purpose is to establish the overall profile of the dataset.  
 
@@ -56,7 +56,7 @@ The purpose is to establish the overall profile of the dataset.
 - Stress-level distribution  
 - Most-used platforms  
 
-**Dashboard 2 — Social Media & Mental Health Patterns**
+📱🧠 **Dashboard 2 — Social Media & Mental Health Patterns**
 
 This is arguably the analytical core of the project.  
 It examine:  
@@ -69,7 +69,7 @@ It examine:
 - Mental health score by stress level  
 - Academic level by usage category  
 
-**Dashboard 3 — Student Segments**
+👥 **Dashboard 3 — Student Segments**
 
 This page moves from general patterns toward subgroup analysis.
 It examine:
@@ -80,6 +80,29 @@ It examine:
 - Usage category × stress  
 - Academic level × stress  
 - Academic level × usage category  
+
+
+## 📈 **Keys observations from the dashboard**
+
+- Higher stress categories are associated with lower average mental health scores in this dataset.
+
+- The dashboard shows a negative association between daily social media usage and mental health score.
+
+- Entertainment represents the largest reported purpose of social media use.
+
+- Instagram and TikTok appear among the most frequently used platforms in the dataset.
+
+- Mental health, stress, sleep, and social-media behaviors vary across student groups.
+
+these are observed associations within the dataset and should not be interpreted as evidence that social media use directly causes changes in mental health.
+
+## **Conclusion**
+
+
+
+
+
+
 
 
 
