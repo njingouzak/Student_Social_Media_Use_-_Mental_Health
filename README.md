@@ -1,10 +1,12 @@
 # **Student Social Media Use, Mental Health and Well-Being**
 
+---
 ## 📖 **Project Overview**
 This project uses interactive data visualization to investigate patterns between social media behavior and student well-being. The analysis integrates mental health scores with stress, sleep, study hours, academic level, age, and social media usage patterns to examine differences across student groups.
 
 The resulting Tableau dashboard transforms these multidimensional relationships into an interactive analytical tool that enables users to explore patterns by demographic, academic, and behavioral characteristics.
 
+---
 ## 🎯 **Objectives**
 
 ### Main Objective
@@ -19,6 +21,7 @@ To explore the relationship between social media usage patterns and student ment
 - Compare patterns by age, gender, academic level, and platform  
 - Identify distinct student behavioral and well-being segments
 
+---
 ## 📊 **Data Source**
 
 The dataset used in this project come from Kaggle platform [CLICK HERE](https://www.kaggle.com/datasets/shivasingh4945/student-social-media-and-mental-health-impact), it is a behavioral analytics dataset containing 5,000 student records designed to explore the relationship between social media usage, lifestyle habits, and mental well-being. It contains the following features:
@@ -37,10 +40,12 @@ The dataset used in this project come from Kaggle platform [CLICK HERE](https://
 - Stress_Level – Self-reported stress category  
 - Mental_Health_Score – Mental well-being score  
 
+---
 ## 🛠️ **Tools**
 
 Tableau | Data Visualization | Exploratory Data Analysis | Interactive Dashboards
 
+---
 ## ⚙️ **Project Workflow**
 
 🔍 **Dashboard 1 — Overview** 
@@ -81,7 +86,7 @@ It examine:
 - Academic level × stress  
 - Academic level × usage category  
 
-
+---
 ## 📈 **Keys observations from the dashboard**
 
 - Higher stress categories are associated with lower average mental health scores in this dataset.
@@ -96,6 +101,7 @@ It examine:
 
 these are observed associations within the dataset and should not be interpreted as evidence that social media use directly causes changes in mental health.
 
+---
 ## **Conclusion**
 
 
