@@ -43,7 +43,7 @@ The dataset used in this project come from Kaggle platform [CLICK HERE](https://
 ---
 ## 🛠️ **Tools**
 
-Tableau | Data Visualization | Exploratory Data Analysis | Interactive Dashboards
+Tableau | Data Visualization | Exploratory Data Analysis | Interactive Dashboards | Python | Jupyter Notebook
 
 ---
 ## ⚙️ **Project Workflow**
